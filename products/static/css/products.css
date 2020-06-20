@@ -72,7 +72,7 @@ main {
 }
 @media (min-width: 768px) {
   .product-list-cards .card-img-top {
-    height: 15em;
+    height: 30em;
   }
 }
 
